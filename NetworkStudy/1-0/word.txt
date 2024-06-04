@@ -1,79 +1,80 @@
-â–  ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯
-
-LAN
-æœ‰ç·šLAN
-ç„¡ç·šLAN
-WAN
-ã‚¤ãƒ³ã‚¿ãƒ¼ãƒãƒƒãƒˆ
- 
-
-â–  ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯æ§‹æˆ
-
-ãƒŽãƒ¼ãƒ‰
-ãƒªãƒ³ã‚¯
-ãƒˆãƒãƒ­ã‚¸
-ãƒã‚¹åž‹ãƒˆãƒãƒ­ã‚¸
-ã‚¹ã‚¿ãƒ¼åž‹ãƒˆãƒãƒ­ã‚¸
-ãƒ¡ãƒƒã‚·ãƒ¥åž‹ãƒˆãƒãƒ­ã‚¸
-å¸¯åŸŸ
-bps
-è¼»è¼³
-ã‚³ãƒªã‚¸ãƒ§ãƒ³
-ãƒ‰ãƒ¡ã‚¤ãƒ³
-ãƒãƒ¼ãƒˆ
- 
-
-â–  ãƒ¢ãƒ‡ãƒ«
-
-ãƒ—ãƒ­ãƒˆã‚³ãƒ«
-OSIå‚ç…§ãƒ¢ãƒ‡ãƒ«
-ãƒ˜ãƒƒãƒ€
-ã‚«ãƒ—ã‚»ãƒ«åŒ–
-éžã‚«ãƒ—ã‚»ãƒ«åŒ–
-PDU
-MTU 
-ãƒ•ãƒ¬ãƒ¼ãƒ 
-ãƒ‘ã‚±ãƒƒãƒˆ
-ã‚»ã‚°ãƒ¡ãƒ³ãƒˆ
-TCP/IPãƒ¢ãƒ‡ãƒ«
- 
-
-â–  ç‰©ç†å±¤
-
-ãƒ“ãƒƒãƒˆ
-ãƒ„ã‚¤ã‚¹ãƒˆãƒšã‚¢ã‚±ãƒ¼ãƒ–ãƒ«
-UTP
-STP
-ã‚«ãƒ†ã‚´ãƒªãƒ¼
-ã‚³ãƒã‚¯ã‚¿
-ã‚¹ãƒˆãƒ¬ãƒ¼ãƒˆã‚±ãƒ¼ãƒ–ãƒ«
-ã‚¯ãƒ­ã‚¹ã‚±ãƒ¼ãƒ–ãƒ«
-å…‰ãƒ•ã‚¡ã‚¤ãƒã‚±ãƒ¼ãƒ–ãƒ«
-ãƒãƒ–
-åŠäºŒé‡é€šä¿¡
-â–  ãƒ‡ãƒ¼ã‚¿ãƒªãƒ³ã‚¯å±¤
-
-ã‚¤ãƒ¼ã‚µãƒãƒƒãƒˆ
-ã‚¤ãƒ¼ã‚µãƒãƒƒãƒˆ
-ãƒ•ã‚¡ã‚¹ãƒˆã‚¤ãƒ¼ã‚µãƒãƒƒãƒˆ
-ã‚®ã‚¬ãƒ“ãƒƒãƒˆã‚¤ãƒ¼ã‚µãƒãƒƒãƒˆ
-ã‚¤ãƒ¼ã‚µãƒãƒƒãƒˆãƒ˜ãƒƒãƒ€
-ãƒˆãƒ¬ãƒ¼ãƒ©
-CSMA/CD
-MACã‚¢ãƒ‰ãƒ¬ã‚¹
-ã‚¹ã‚¤ãƒƒãƒ
-MACã‚¢ãƒ‰ãƒ¬ã‚¹ãƒ†ãƒ¼ãƒ–ãƒ«
-ãƒ•ãƒ©ãƒƒãƒ‡ã‚£ãƒ³ã‚°
-å…¨äºŒé‡é€šä¿¡
-VLAN
-ã‚¿ã‚°VLAN
-ãƒãƒ¼ãƒˆãƒ™ãƒ¼ã‚¹VLAN
-ã‚¢ã‚¯ã‚»ã‚¹ãƒãƒ¼ãƒˆ
-ãƒˆãƒ©ãƒ³ã‚¯ãƒãƒ¼ãƒˆ
-DTP
-ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆVLAN
-ãƒã‚¤ãƒ†ã‚£ãƒ–VLAN
-ãƒ–ãƒ­ãƒ¼ãƒ‰ã‚­ãƒ£ã‚¹ãƒˆã‚¹ãƒˆãƒ¼ãƒ 
-ã‚¹ãƒ‘ãƒ‹ãƒ³ã‚°ãƒ„ãƒªãƒ¼ãƒ—ãƒ­ãƒˆã‚³ãƒ«
-ãƒªãƒ³ã‚¯ã‚¢ã‚°ãƒªã‚²ãƒ¼ã‚·ãƒ§ãƒ³
-EtherChannel
+	
+¡ ƒlƒbƒgƒ[ƒN	l‚â‚à‚Ì‚²‚Æ‚ð–Ôó‚É‚Â‚È‚°‚½‚à‚Ì	
+		
+LAN@‰Æ’ë‚âƒIƒtƒBƒX‚È‚ÇŒÀ’è‚µ‚½ƒGƒŠƒA‚ÅÚ‘±‚Å‚«‚éƒvƒ‰ƒCƒx[ƒgƒlƒbƒgƒ[ƒN	ƒ[ƒJƒ‹ƒlƒbƒgƒ[ƒN
+—LüLAN@LANƒP[ƒuƒ‹‚ðŽg‚Á‚½Ú‘±•û–@	
+–³üLAN@LANƒP[ƒuƒ‹‚Ì‘ã‚í‚è‚É–³ü‚ðŽg‚¢A“d”g‚Å’ÊM‚ðs‚¤Žd‘g‚Ý	
+WAN@‰“‚­—£‚ê‚½ƒGƒŠƒA‚Æ‚Â‚È‚ª‚Á‚½ƒlƒbƒgƒ[ƒN	ƒƒCƒhƒlƒbƒgƒ[ƒN
+ƒCƒ“ƒ^[ƒlƒbƒg	ƒRƒ“ƒsƒ…[ƒ^‚ÌuŠÔv‚É’£‚è„‚ç‚³‚ê‚½u–Ô–Úv‚Æ‚¢‚¤ˆÓ–¡‚ÅA¢ŠE’†‚ÌƒRƒ“ƒsƒ…[ƒ^“¯Žm‚ð‚Â‚È‚¢‚ÅAî•ñ‚Ì‚â‚èŽæ‚è‚ª‚Å‚«‚éó‘Ô	
+------------------------------------------------------------------------------------------------------------------------------------------		
+¡ ƒlƒbƒgƒ[ƒN\¬	uƒRƒ“ƒsƒ…[ƒ^vuƒlƒbƒgƒ[ƒNvu“`‘—”}‘Ìv‚Ì3‚Â‚Ì—v‘f‚©‚ç¬‚è—§‚Á‚Ä‚¢‚é	
+		
+ƒm[ƒh	ƒRƒ“ƒsƒ…[ƒ^‚âƒ‹[ƒ^AƒvƒŠƒ“ƒ^@ƒRƒ“ƒsƒ…[ƒ^ƒlƒbƒgƒ[ƒN‚ÍA“_i‘•’uj‚Æ‚»‚ê‚ðŒ‹‚Ôüi“`‘—˜Hj‚Å•\‚·‚±‚Æ‚ªo—ˆ‚é‚»‚ÌŽž‚Ìu“_v	
+ƒŠƒ“ƒN	•Ê‚ÌêŠ‚ÉˆÚ“®‚·‚é‚½‚ß‚Ì“ü‚èŒûAURL‚ÍWebƒy[ƒW‚ÌZŠ‚Ì‚æ‚¤‚È‚à‚Ì	
+ƒgƒ|ƒƒW	ƒlƒbƒgƒ[ƒN‚ÌŒ`	
+ƒoƒXŒ^ƒgƒ|ƒƒW	1–{‚ÌƒP[ƒuƒ‹‚É•¡”‚Ìƒm[ƒh‚ðÚ‘±‚µ‚Ä‚¢‚éƒgƒ|ƒƒW[B	
+ƒXƒ^[Œ^ƒgƒ|ƒƒW	1‚Â‚ÌWü‘•’uiƒnƒu‚âƒXƒCƒbƒ`j‚É•¡”‚Ìƒm[ƒh‚ðÚ‘±‚µ‚Ä‚¢‚éƒgƒ|ƒƒW[B	
+ƒƒbƒVƒ…Œ^ƒgƒ|ƒƒW	‚·‚×‚Ä‚Ì‹@Ší‚ª‘ŠŒÝ‚ÉÚ‘±‚µ‚Ä‚¢‚éƒgƒ|ƒƒW[B	
+‘Ñˆæ	ˆê”Ô’á‚¢Žü”g”‚Æˆê”Ô‚‚¢Žü”g”‚ÌŠÔ‚ÌŽü”g”‚Ì”ÍˆÍ‚Ì‚±‚ÆB	
+bps	1•b‚ ‚½‚è‚É“]‘—‚Å‚«‚éƒf[ƒ^”‚Ì’PˆÊ‚Ì‚±‚ÆB1•bŠÔ‚É1ƒrƒbƒg‚Ìƒf[ƒ^‚ð“]‘—‚Å‚«‚é	bits per second
+çtçs	1‚©Š‚ÉW’†‚µ‚Ä¬ŽG‚µ‚Ä‚¢‚éó‘ÔB	
+ƒRƒŠƒWƒ‡ƒ“	ƒlƒbƒgƒ[ƒNã‚ÌŒð’ÊŽ–ŒÌB•ÊX‚ÌƒRƒ“ƒsƒ…[ƒ^‚©‚ç‘—‚ç‚ê‚½ƒf[ƒ^“¯Žu‚ª‚Ô‚Â‚©‚é‚±‚ÆB	
+ƒhƒƒCƒ“	ƒz[ƒ€ƒy[ƒW‚ÌˆÊ’u‚ðŽ¦‚·ƒCƒ“ƒ^[ƒlƒbƒgã‚ÌuZŠvB	
+ƒ|[ƒg	ƒP[ƒuƒ‹‚ð·‚µž‚ÞÚ‘±ŒûAƒ\ƒtƒgƒEƒFƒA‚ªƒf[ƒ^‚ðo“üŒûB	
+------------------------------------------------------------------------------------------------------------------------------------------ 		
+¡ ƒ‚ƒfƒ‹	‹@Ží	
+		
+ƒvƒƒgƒRƒ‹	’ÊM‚ÉŠÖ‚·‚é‹KŠi‚Ì‚±‚ÆBu’ÊM‹K–ñv‚âu’ÊMŽè‡v‚Æ‚à‚¢‚¤B	
+OSIŽQÆƒ‚ƒfƒ‹	ƒRƒ“ƒsƒ…[ƒ^‚Ì’ÊM‹@”\‚ð7ŠK‘w‚Ì\‘¢‚É•ªŠ„‚µ’è‹`‚·‚é‚±‚ÆB	
+ƒwƒbƒ_	ƒf[ƒ^‚ÉŠÖ‚·‚éà–¾‘‚«‚ª‘‚¢‚Ä‚ ‚é‚Æ‚±‚ëBæ“ª•”•ªB	
+ƒJƒvƒZƒ‹‰»	ƒpƒPƒbƒgi’ÊM—p‚É×Ø‚ê‚É‚³‚ê‚½ƒf[ƒ^j‚ð•ï‚ñ‚¾ƒpƒPƒbƒgB	
+”ñƒJƒvƒZƒ‹‰»	ŽóM‘¤‚ÅŽóM‚µ‚½ƒf[ƒ^‚©‚ç•K—v‚Èî•ñ‚ð“Ç‚ÝŽæ‚èA•t‰Áî•ñ‚ðŽæ‚èœ‚¢‚Ä‚¢‚­‚±‚ÆB	
+PDU	ƒvƒƒgƒRƒ‹i’ÊM‹K–ñj‚ªˆµ‚¤‚Ð‚Æ‚Ü‚Æ‚Ü‚è‚Ìƒf[ƒ^‚Ì‘—ŽóM’PˆÊBuƒpƒPƒbƒgvuƒtƒŒ[ƒ€v‚È‚Ç‹ï‘Ì“I‚ÈŒÄ‚Ñ–¼‚ÍƒvƒƒgƒRƒ‹‚É‚æ‚Á‚ÄˆÙ‚È‚éB	ƒvƒƒgƒRƒ‹ƒf[ƒ^ƒ†ƒjƒbƒg
+MTU 	ƒRƒ“ƒsƒ…[ƒ^‚âƒ‹[ƒ^‚È‚Ç‚Ìƒm[ƒhi‘•’uj‚ª—×Ú‚µ‚½ƒlƒbƒgƒ[ƒN‚É‘Î‚µ‚Ä1‰ñ‚Ì’ÊM‚Å‘—M‰Â”\‚ÈÅ‘å‚Ìƒf[ƒ^ƒTƒCƒY‚Ì‚±‚ÆB	
+ƒtƒŒ[ƒ€	ƒf[ƒ^ƒŠƒ“ƒN‘wiƒŒƒCƒ„2j‚ÅŽg—p‚³‚ê‚é“`‘—’PˆÊB	
+ƒpƒPƒbƒg	ƒlƒbƒgƒ[ƒN‘wiƒŒƒCƒ„3j‚ÅŽg—p‚³‚ê‚é“`‘—’PˆÊB	
+ƒZƒOƒƒ“ƒg	‰½‚ç‚©‚ÌŠî€‚É‚æ‚è•ªŠ„‚µ‚½•¨—“I‚Èƒlƒbƒgƒ[ƒN’f•Ð‚Ì‚±‚ÆB	
+TCP/IPƒ‚ƒfƒ‹	ƒCƒ“ƒ^[ƒlƒbƒg‚Ì•W€“I‚È’ÊMƒvƒƒgƒRƒ‹i’ÊM•û–@jBTCP‚ÆIP‚Ì2‚Â‚ÌƒvƒƒgƒRƒ‹‚É‚æ‚Á‚Ä\¬‚³‚ê‚Ä‚¢‚ÄAÅ‚àL‚­—˜—p‚³‚ê‚Ä‚¢‚éƒvƒƒgƒRƒ‹B	
+------------------------------------------------------------------------------------------------------------------------------------------		
+¡ •¨—‘w	OSIŽQÆƒ‚ƒfƒ‹‚É‚¨‚¯‚é‘æˆê‘wB	
+		
+ƒrƒbƒg	‚PƒoƒCƒg‚Wƒrƒbƒg@1ƒrƒbƒg‚ÍƒRƒ“ƒsƒ…[ƒ^‚ªˆµ‚¤ƒf[ƒ^‚ÌÅ¬’PˆÊ‚Ì‚±‚ÆB	
+ƒcƒCƒXƒgƒyƒAƒP[ƒuƒ‹	2–{‚ÌƒƒCƒ„‚ð‚æ‚è‡‚í‚¹‚Ä1–{‚Ìü‚É‚µ‚½ƒP[ƒuƒ‹BLANƒP[ƒuƒ‹‚ÉŽg‚í‚ê‚Ä‚¢‚éB	
+UTP	8–{‚Ì“ºü‚ð2–{‚¸‚Â4‘g‚É‚æ‚è‡‚í‚¹‚½ƒcƒCƒXƒgƒyƒAƒP[ƒuƒ‹‚ÅAƒV[ƒ‹ƒh‰ÁH‚ðŽ{‚µ‚Ä‚¢‚È‚¢‚à‚ÌB	ƒAƒ“ƒV[ƒ‹ƒeƒbƒhƒcƒCƒXƒgƒyƒA
+STP	8–{‚Ì“ºü‚ð2–{‚¸‚Â4‘g‚É‚æ‚è‡‚í‚¹‚½ƒcƒCƒXƒgƒyƒAƒP[ƒuƒ‹‚ÅAƒV[ƒ‹ƒh‰ÁH‚ðŽ{‚µ‚Ä‚¢‚é‚à‚ÌB	ƒV[ƒ‹ƒeƒbƒhƒcƒCƒXƒgƒyƒA
+ƒJƒeƒSƒŠ[	•”–åE•ª—ÞEƒWƒƒƒ“ƒ‹	
+ƒRƒlƒNƒ^	‚Â‚È‚®‚à‚ÌB‹@Ší‚ÉŠO•”‚©‚ç‚ÌM†‚ðÚ‘±‚·‚é‚½‚ß‚Ì“dŽq•”•iB	
+ƒXƒgƒŒ[ƒgƒP[ƒuƒ‹	ƒP[ƒuƒ‹‚Ì—¼’[‚ÌF‚ª“¯‚¶Bƒpƒ\ƒRƒ““¯Žm‚Í‚Â‚È‚®‚±‚Æ‚ªo—ˆ‚È‚¢B	
+ƒNƒƒXƒP[ƒuƒ‹	ƒP[ƒuƒ‹‚Ì—¼’[‚ÌF‚ªˆÙ‚È‚éBƒpƒ\ƒRƒ““¯Žm‚Í‚Â‚È‚®‚±‚Æ‚ªo—ˆ‚éB	
+Œõƒtƒ@ƒCƒoƒP[ƒuƒ‹	Œõƒtƒ@ƒCƒo[‚ð‘©‚ËAƒVƒŠƒRƒ“‚È‚Ç‚Ì‘@ˆÛ‚Å•¢‚Á‚½’ÊM—pƒP[ƒuƒ‹B	
+ƒnƒu	ƒlƒbƒgƒ[ƒN‚ÌWü‘•’uB	
+”¼“ñd’ÊM	ˆê“x‚Éu‘—MvuŽóMv‚Ì‚Ç‚¿‚ç‚©•Ð•û‚µ‚©s‚¦‚È‚¢’ÊM•û–@B–³üLAN‚È‚ÇB	
+------------------------------------------------------------------------------------------------------------------------------------------		
+¡ ƒf[ƒ^ƒŠƒ“ƒN‘w	"ƒŒƒCƒ„2‘w@ƒXƒCƒbƒ`‚âƒ‹[ƒ^‚È‚Ç‚Éƒf[ƒ^‚ð‘—‚é
+’¼Ú“Ii—×Ú“Ij‚ÉÚ‘±‚³‚ê‚Ä‚¢‚é’ÊM‹@ŠíŠÔ‚ÌM†‚ÌŽó‚¯“n‚µ‚ðs‚¤B"	
+		
+ƒC[ƒTƒlƒbƒg	—LüLANBƒ[ƒJƒ‹ƒlƒbƒgƒ[ƒNB	
+ƒtƒ@ƒXƒgƒC[ƒTƒlƒbƒg	—LüLANB’ÊM‘¬“x‚ª100Mbps	
+ƒMƒKƒrƒbƒgƒC[ƒTƒlƒbƒg	—LüLANB’ÊM‘¬“x‚ª1Gbps	
+ƒC[ƒTƒlƒbƒgƒwƒbƒ_	ƒlƒbƒgƒ[ƒNã‚ð—¬‚ê‚éƒf[ƒ^‚Ì’†g‚ÅAƒC[ƒTƒlƒbƒg‚ÅŽg‚¤î•ñ‚ª‘‚©‚ê‚½•”•ªB	ƒf[ƒ^¨TCPi’iƒ{[ƒ‹j¨IPiƒgƒ‰ƒbƒNj¨ƒC[ƒTƒlƒbƒgƒwƒbƒ_i‘Dj
+ƒgƒŒ[ƒ‰	ƒf[ƒ^‚Ì“`‘—’†‚ÉŒë‚è‚ª”­¶‚µ‚½‚©”Û‚©‚ðŒŸo‚·‚é‚½‚ß‚Ì‚à‚ÌB	
+CSMA/CD	ƒf[ƒ^“¯Žm‚ªÕ“Ë‚µ‚½Û‚ÉŽžŠÔ‚ð‹ó‚¯‚½‚è‚µA‘Îˆ‚·‚é’ÊM•û–@‚Ì‚±‚ÆB	
+MACƒAƒhƒŒƒX	ƒlƒbƒgƒ[ƒN‹@Ší‚âƒlƒbƒgƒ[ƒNƒAƒ_ƒvƒ^[‚É•t‚¢‚Ä‚¢‚éŒÅ—L‚ÌŽ¯•Ê”Ô†B¢ŠE‚Å—Bˆê‚Ì”Ô†	ƒƒfƒBƒAƒAƒNƒZƒXƒRƒ“ƒgƒ[ƒ‹ƒAƒhƒŒƒX
+ƒXƒCƒbƒ`	ƒRƒ“ƒsƒ…[ƒ^ƒlƒbƒgƒ[ƒN‚ÌWü‘•’u‚ÌˆêŽí‚ÅAŽóM‚µ‚½ƒf[ƒ^‚Ìˆ¶æ‚ðŒ©‚ÄAÚ‘±‚³‚¦‚½Še‹@Ší‚Ö‚Ì“]‘—‚Ì‰Â”Û‚ð”»’f‚·‚é‹@”\‚ð“à‘ ‚µ‚½‚à‚ÌB	
+MACƒAƒhƒŒƒXƒe[ƒuƒ‹	ƒlƒbƒgƒ[ƒNƒXƒCƒbƒ`‚È‚Ç‚ª“à•”“I‚ÉŠÇ—‚µ‚Ä‚¢‚éî•ñ‚ÅA‚Ç‚Ìƒ|[ƒgi’[Žqj‚É‚Ç‚ÌMACƒAƒhƒŒƒX‚ðŽ‚Â‹@Ší‚ªÚ‘±‚³‚ê‚Ä‚¢‚é‚©‚ð‹L˜^‚µ‚½‚à‚ÌB	
+ƒtƒ‰ƒbƒfƒBƒ“ƒO	u^…vƒlƒbƒgƒ[ƒN‹@Ší‚Ìˆ—”\—Í‚ð’´‚¦‚éƒf[ƒ^—Ê‚ª”­¶‚µAƒlƒbƒgƒ[ƒNƒVƒXƒeƒ€‚Ì“®ì‚ÉŽxá‚ªo‚éó‘Ô‚Ì‚±‚ÆB	
+‘S“ñd’ÊM	1–{‚Ì’ÊM˜H‚Å‘—M‚ÆŽóM‚ª“¯Žž‚É‚Å‚«‚é‚±‚ÆB	
+VLAN	ƒXƒCƒbƒ`“à‚Åƒlƒbƒgƒ[ƒN‚ðØ‚è•ª‚¯‚é‹ZpB	ƒo[ƒ`ƒƒƒ‹ƒ[ƒJƒ‹ƒGƒŠƒAƒlƒbƒgƒ[ƒN
+ƒ^ƒOVLAN	ƒ^ƒO‚Æ‚¢‚¤Žd‘g‚Ý‚ðŽg‚Á‚Äˆê‚Â‚Ì•¨—ƒ|[ƒg‚É•¡”‚ÌVLANƒtƒŒ[ƒ€‚ð’Ê‚¹‚é‚æ‚¤‚É‚·‚é‚±‚ÆB	
+ƒ|[ƒgƒx[ƒXVLAN	ƒXƒCƒbƒ`‚Ì‚Ç‚ÌŒŠ‚É’Ê‚·‚©‚ÅŠ‘®‚·‚éƒlƒbƒgƒ[ƒN‚ªŒˆ‚Ü‚éVLAN‚Ì‚±‚ÆB	
+ƒAƒNƒZƒXƒ|[ƒg	ƒpƒ\ƒRƒ“‚ÆƒXƒCƒbƒ`‚ð‚Â‚È‚®Ú‘±Œû	
+ƒgƒ‰ƒ“ƒNƒ|[ƒg	ƒXƒCƒbƒ`‚ÆƒXƒCƒbƒ`‚ð‚Â‚È‚®Ú‘±Œû	
+DTP	ƒpƒ\ƒRƒ“ã‚ÅA•¶‘‚Ìì¬‚â•ÒWAƒŒƒCƒAƒEƒgA•¶Žš‘g‚Ý‚È‚Ç‚Ìˆóü•¨‚Ìì¬ì‹Æ‚ðs‚¤‚±‚ÆB	ƒfƒXƒNƒgƒbƒvƒpƒuƒŠƒbƒVƒ“ƒO
+ƒfƒtƒHƒ‹ƒgVLAN	VLAN ID‚ª–¢Ý’è‚Ìê‡‚É—p‚¢‚ç‚ê‚éVLANB	
+ƒlƒCƒeƒBƒuVLAN	ƒgƒ‰ƒ“ƒNƒ|[ƒg‚Ì’†‚Åƒ^ƒO‚ð‚Â‚¯‚È‚¢VLAN ID‚Ì‚±‚ÆB	
+ƒuƒ[ƒhƒLƒƒƒXƒgƒXƒg[ƒ€	Œë‚Á‚ÄLAN‚ðƒ‹[ƒvó‚É\¬‚·‚é‚±‚Æ‚É‚æ‚èAƒC[ƒTƒlƒbƒg‚Ìƒuƒ[ƒhƒLƒƒƒXƒgEƒtƒŒ[ƒ€‚ª‘B‚µ‘±‚¯‚éŒ»Û‚Ì‚±‚ÆB	
+ƒXƒpƒjƒ“ƒOƒcƒŠ[ƒvƒƒgƒRƒ‹	ƒlƒbƒgƒ[ƒN“à‚Åƒf[t‚ª“¯‚¶‚Æ‚±‚ë‚ð‚®‚é‚®‚é‰ñ‚ç‚È‚¢‚æ‚¤‚É‚·‚é‚½‚ß‚ÌŽd‘g‚Ý	
+ƒŠƒ“ƒNƒAƒOƒŠƒQ[ƒVƒ‡ƒ“	"•¡”‚Ì‰ñü‚ð1‚Â‚É‚Ü‚Æ‚ß‚Ä‰¼‘z‰ñü‚ð\’z‚µAŠe‹@Ší‚Æƒf[ƒ^‚ð‘—ŽóM‚·‚é‚±‚ÆB
+•¡”‚ÌƒRƒ“ƒsƒ…[ƒ^‚ð1‘ä‚ÌƒRƒ“ƒsƒ…[ƒ^‚Ì‚æ‚¤‚É“®ì‚³‚¹‚é‰ñ˜H‚Ì‚±‚ÆB"	
+EtherChannel	ƒC[ƒTƒ`ƒƒƒlƒ‹@•¡”‚ÌƒC[ƒTƒlƒbƒg‰ñüiƒ|[ƒg‹y‚ÑƒP[ƒuƒ‹j‚ð‘©‚Ë‚Ä‰¼‘z“I‚Éˆê–{‚Ì‘å—e—Ê‰ñü‚Æ‚µ‚Ä—˜—p‚·‚é‹@”\B	
+------------------------------------------------------------------------------------------------------------------------------------------
